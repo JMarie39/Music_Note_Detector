@@ -1,6 +1,6 @@
 # Music Note Detector: Harmonic Product Spectrum
 
-CEDISP1 • Digital Signal Processing | 2020-2021 | Final Project
+CEDISP1 • Digital Signal Processing | Sophomore • 2020-2021 | Final Project
 
 ### Author/s:
 
